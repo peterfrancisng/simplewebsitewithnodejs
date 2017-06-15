@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/peterfrancisng/simplewebsitewithnodejs/issues"
   },
-  "homepage": "https://github.com/peterfrancisng/simplewebsitewithnodejs#readme"
+  "homepage": "https://github.com/peterfrancisng/simplewebsitewithnodejs#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
